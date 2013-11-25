@@ -41,7 +41,7 @@ B JOBS|Steve Jobs / Walter Isaacson.
 005.1 SEI|Coders at work : reflections on the craft of programming / Peter Seibel.
 005.133 HYD|The art of assembly language / by Randall Hyde.
 005.26 LAM|Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry / Susan Lammers.
-005.8|The art of intrusion : the real stories behind the exploits of hackers, intruders, & deceivers / Kevin D. Mitnick, William L. Simon.
+005.8 MIT|The art of intrusion : the real stories behind the exploits of hackers, intruders, & deceivers / Kevin D. Mitnick, William L. Simon.
 338.47 CRI|Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date /  Robert X. Cringely.
 338.47004160973 FRE|Fire in the valley : the making of the personal computer / Paul Freiberger.
 364.168 LEV|Hackers: Heroes of the Computer Revolution / Steven Levy.
