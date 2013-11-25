@@ -1,0 +1,73 @@
+Minimalism
+    Because less is more
+
+Software:
+Chess (engine dev, see Sinclair XL, Atari 2600, Kim-1 vers; Miramax, Mac Hack@MIT)
+Sudoku
+Running Calculator
+Rubiks Cube Solving
+FTP/HTTP/Gopher/Telnet/SSH Server Software
+Runescape/Minecraft Server Configuration (Java)
+BBS/ARPAnet Simulation (telehack, Community Message Center, using perl, epoll)
+Text Editor (syntax highlighting, NIX+DOS compatibility (LF+BR))
+OS Dev (use floppy bootloader, can do in ASM; BakingPi; osix)
+Emulation (Chip-8, Atari 2600, NES)
+Coding (PHP, Python, Perl, C++, BASIC, Java, Scratch)
+    Cover AP CompSci Test Materials
+A/V Editing
+Text Compression (ChristOnDisk)
+Game Development (Game Maker, Roguelike)
+Linux Tinkering
+Pen Testing/Security (Kali, Virus disassembly?)
+One line play reader (Shakespeare; Moby, OSS)
+TI Emulator or port games
+Tic-Tac-Toe 
+Connect 4
+Bots (Runescape, Chat, Telehack)
+
+Hardware:
+Project MF (Asterix)
+Server Building (Beowulf Cluster, Parallel)
+Computer Repair (Diagnostics)
+Basic Electronics
+Arudinio (Microcontrollers)
+TV Interface (TV Pong, console programming)
+Fab Lab (Fabrication Laboratory):
+    3D Printing 
+    PCB Printing
+    IC Fab
+PirateBox (local wifi file hosting)
+A/V Recording
+Robotics
+Cell Jammer
+MOS Interfacing for 6502 Processor
+                    6581 SID
+Wireless Coffee Machine (telnet, webcam?)
+Book Scanner (OCR software connection, yearbook, newspaper)
+Arcade cabinet (4-button joystick)
+LED Binary Clock
+Floppy Music (mrsolidsnake745)
+Sampler Pad
+
+Other Ideas:
+Consultation w/ companies (Microsoft, Valve)
+CompSci @ MIT
+Khan Academy
+Codecademy
+Project Euler
+Adafruit WebIDE, Google Coder
+TechStart (Willamette Competition, Treehouse)
+Madison High School Technology Club (github.com/madisonpdx)
+PAX
+Vegas (math)
+---
+PPS Computer Status (check syllabi):
+Madison - None
+Grant - Classes next year (Johnny)
+Cleveland - Club
+Lincoln - Club (Classes?)
+Wilson - Classes (4-year program)
+Benson - ? (most likely, robotics, has great library)
+Jefferson - None
+Roosevelt - None
+Franklin - Club
