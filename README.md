@@ -1,4 +1,4 @@
 project-whizkids
 ================
 
-Establish a student electronics club
+Establishment of an Electronic Hobbyist Club
