@@ -1,0 +1,69 @@
+Booklist:
+At Home:
+004.67 HAF|Where wizards stay up late : the origins of the Internet / Katie Hafner and Matthew Lyon.
+005.1 PET|Code : the hidden language of computer hardware and software / Charles Petzold.
+005.8 MIT|The Art of Deception : controlling the human element of security / Kevin D. Mitnick and William L. Simon ; foreword by Steve Wozniak.
+364.168 STE|The Hacker Crackdown : law and disorder on the electronic frontier / Bruce Sterling.
+629.3 RCA|Glossary of Computer, Missile and Electronic Terms / RCA Field Engineering Government Services.
+
+In the Madison Library:
+B EDISON|Thomas Alva Edison : inventing the electric age / Gene Adair.
+B EDISON (B E23Jo)|Edison; a biography.
+B GATES|Bill Gates : a twentieth-century life / by Marc Aronson.
+B GATES|Bill Gates / Jeanne M. Lesinski.
+B GATES|Bill Gates speaks : insight from the world's greatest entrepreneur / [compiled by] Janet Lowe.
+B JOBS|Steve Jobs : the man who thought different : a biography / by Karen Blumenthal.
+B MITNICK|Ghost in the wires : my adventures as the world's most wanted hacker / Kevin Mitnick, with William L. Simon.
+B TESLA|Tesla, man out of time / Margaret Cheney.
+B WOZNIAK|IWoz : computer geek to cult icon : how I invented the personal computer, co-founded Apple, and had fun doing it / Steve Wozniak with Gina Smith.
+004.6 GAT|The road ahead / Bill Gates with Nathan Myhrvold and Peter Rinearson.
+338.7 KAT|Geeks : how two lost boys rode the Internet out of Idaho / Jon Katz.
+378.166 CRA|Cracking the AP computer science A & AB exams / Mehran Habibi, Michael Fritz, and Robb Cutler.
+530.12 LLO|Programming the universe : a quantum computer scientist takes on the cosmos / Seth Lloyd.
+600 WIL|Where's my jetpack? : a guide to the amazing science fiction future that never arrived / Daniel H. Wilson ; illustrated by Richard 
+609.73 HUG|American genesis : a century of invention and technological enthusiasm, 1870-1970 / Thomas P. Hughes.
+621.309 CHE|Tesla : master of lightning / by Margaret Cheney & Robert Uth ; technical editor, Jim Glenn.
+621.381 LEE|Winning with people : the first 40 years of Tektronix / Marshall M. Lee.
+621.381 REI|The chip : how two Americans invented the microchip and launched a revolution / by T.R. Reid.
+623 GRE|Bright boys / Tom Green.
+926 MAN|Trail blazers of technology; the story of nine inventors. Illustrated by Anthony Ravielli.
+926 MAN|New trail blazers of technology / Harland Manchester.
+Other Relevant Sections:
+004-006.6 (General Computers)
+510-520 (Math)
+794.1 (Chess)
+
+Wishlist:
+B JOBS|Steve Jobs / Walter Isaacson.
+004.0922 SHA|Out of their minds : the lives and discoveries of 15 great computer scientists / Dennis Shasha, Cathy Lazere.
+004.16 MAR|What the dormouse said: how the sixties counterculture shaped the personal computer industry / John Markoff.
+004.09 DYS|Turing's cathedral : the origins of the digital universe / George Dyson.
+005.1 SEI|Coders at work : reflections on the craft of programming / Peter Seibel.
+005.133 HYD|The art of assembly language / by Randall Hyde.
+005.26 LAM|Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry / Susan Lammers.
+005.8|The art of intrusion : the real stories behind the exploits of hackers, intruders, & deceivers / Kevin D. Mitnick, William L. Simon.
+338.47 CRI|Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date /  Robert X. Cringely.
+338.47004160973 FRE|Fire in the valley : the making of the personal computer / Paul Freiberger.
+364.168 LEV|Hackers: Heroes of the Computer Revolution / Steven Levy.
+384.06573 LAP|Exploding the phone : the untold story of the teenagers and outlaws who hacked Ma Bell / Phil Lapsley.
+794.8 MON|Racing the Beam: the Atari Video Computer System / Nick Montfort.
+FIC RYA|The Adolescence of P-1 /  Thomas J. Ryan.
+
+Documenteries, Films, and TV Shows:
+(1968, Film) - 2001: A Space Odyssey
+(1970, Film) - Colossus: The Forbin Project
+(1970, Documentary) - Computer Networks: The Heralds of Resource Sharing
+(1982, Film) - TRON
+(1983-2002, TV Series) - Computer Chronicles
+(1983, Film) - WarGames
+(1985, Documentary) - Hackers: Wizards of the Electronic Age
+(1995, Film) - Hackers
+(1996, 3-Part Documentary) - Trumph of the Nerds
+(1999, Docu-drama) - Pirates of silicon Valley
+(2001, Documentary) - The Secret History of Hacking
+(2003, Documentary) - In the Realm of the Hackers
+(2005, Documentary) - BBS: The Documentary
+(2007, Film) - Meet the Robinsons
+(2010, Film) - TRON: Legacy
+(2010, Documentary) - Get Lamp
+(2013, Documentary) - DEFCON: The Documentary
